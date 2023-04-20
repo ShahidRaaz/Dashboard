@@ -1,0 +1,27 @@
+/* Top products and schedule s*/
+#products{
+    margin-right: 2.7vw;
+}
+.prsc{
+    background-color: #FFFFFF;
+    padding: 0vh 1vw 2vh 1vw;
+    border-radius: 20px;
+    width: 28.33vw;
+    height: 22vh;
+}
+.pstitle{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+color: #000000;
+}
+.ptext{
+    margin-top: 12px;
+    margin-right: 5vw;
+}
+.prscbox{
+    margin-bottom: 3.9vh; 
+    width: 33.33vw;
+    height: 25vh;
+}

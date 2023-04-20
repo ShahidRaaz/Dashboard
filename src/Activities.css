@@ -1,0 +1,50 @@
+/* Activities s*/
+#box{
+    background-color: #FFFFFF;
+    width: 59.4vw;
+    height: 36vh;
+    border-radius: 20px;
+    padding: 0vh 2vw 0vh 2vw;
+}
+.activbox{
+    height: 29.19vh;
+}
+.actbox{
+    margin-bottom: 3.9vh;
+}
+#actt{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+color: #000000;
+}
+select{
+    border: transparent;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    color: #858585;
+}
+select:hover{
+    cursor: pointer;
+}
+.dot{
+    height: 1vh;
+    background: rgba(233, 160, 160, 1);
+    border-radius: 20px;
+    margin: 1vh;
+    margin-right: 1vh;
+    margin-left: 3vh;
+    padding-left: 1vh;
+}
+#gdot{
+    background-color:rgba(155, 221, 124, 1);
+    ;
+}
+.graph{
+    margin-left: -35px;
+    margin-top: 15px;
+}
+/* Activities e*/

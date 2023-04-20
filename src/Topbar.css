@@ -1,0 +1,38 @@
+/* topbar s*/
+#topbar{
+    margin-bottom: 20px;
+}
+.flex-item2{
+  width: 100%;
+  /* border: 3px solid #73AD21; */
+}
+#mtitle{
+    height: 2.3vh;
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 5px;
+}
+#searchbox{
+    float: right;
+    border-radius: 10px;
+    height: 25px;
+    width: 180px;
+    border: transparent;
+    padding-left: 10px;
+    background-color: #FFFFFF;
+    margin-left:10px;
+}
+#notibell{
+height: 2.3vh;
+margin: -2vh 1vw 0vw 2vw;
+}
+#profbtn{
+    height: 2.3vh;
+    margin:-2vh 1vw 0vw 1.388vw;
+}
+#ppic{
+    height: 3vh;
+    border-radius: 50px;
+    float: right;
+}
+/* topbar e*/

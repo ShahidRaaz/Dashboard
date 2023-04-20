@@ -1,0 +1,43 @@
+/* navbar s*/
+#appname2{
+    margin-bottom: 3.90625vh;
+}
+#navbar{
+    background-color: black;
+    color: aliceblue;
+    height: 80.46vh;
+    width: 12.46vw;
+    margin: 3.90625vh 4.167vw 3.90625vh 2.78vw ;
+    padding: 5.86vh 3.47vw 5.86vh 3.47vw;
+    border-radius: 30px;
+}
+h4{
+    width: 130px;
+    font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+}
+.micon{
+    height: 18px;
+    width: 18px;
+    position: relative;
+    top: 3px;
+    margin-right: 10px;
+}
+#btmenu{
+    margin-top: 30vh;
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+}
+a{
+    font-size: 14px;
+    text-decoration: none;
+    color: aliceblue;
+}
+/* navbar e*/

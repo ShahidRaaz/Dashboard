@@ -1,0 +1,25 @@
+body{
+    background-color: #DDDDDD;
+    margin: 0px;
+}
+#Wholedash{
+    /* border: 2px solid rebeccapurple; */
+    height: 100vh;
+    width: 93.05vw;
+}
+.flex-container1{
+    display: flex;
+    /* border: 2px solid rebeccapurple; */
+}
+.flex-container2{
+    display: flex;
+    flex-direction: column;
+    /* border: 2px solid rebeccapurple; */
+}
+#fulldashb{
+    height: 86.3vh;
+    width: 63.4vw;
+    /* border: 2px solid rebeccapurple; */
+    margin: 3.90625vh 0vw 3.90625vh 0vw ;
+    border-radius: 30px;
+}

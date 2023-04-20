@@ -1,0 +1,67 @@
+
+#Projects {
+  margin-left: 80px;
+  height: 'fit-content';
+  padding-top: 90px;
+} 
+#para1{
+    margin-bottom: 30px;
+    font-size: 56px;
+    color: aliceblue;
+}
+footer{
+  color: aliceblue;
+  margin-top: 50px;
+  font-size: 15px;
+}
+.flex-container {
+  display: flex;
+  font-size: 30px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.flex-item {
+    padding: 10px;
+    flex: 50%;
+    margin: 10px;
+    box-sizing: border-box;
+    font-size: 24px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    background-color: transparent; 
+    border: solid dodgerblue;
+}
+.pn{
+  margin-top: 10px;
+  color: dodgerblue;
+}
+.prp
+{
+  margin-top: 10px;
+  font-size: 20px;
+  color: aliceblue; 
+}
+.flex-item:hover {
+  transform: translateY(-8px);
+  transition: 0.5s;
+}
+
+.img{
+  height: 50px;
+  width: 50px;
+  margin: 20px;
+}
+
+@media (max-width: 800px) {
+  .flex-container {
+   flex-direction: column;
+  }
+  #Projects{
+    margin-left:20px;
+    margin-right:20px;
+  }
+}
+
+

@@ -1,0 +1,135 @@
+#Home{
+    margin-left: 80px;
+    height: 'fit-content';
+    position: relative;
+    top: -20px;
+    margin-bottom: 160px;
+    /* border: #31A8FF solid; */
+  }
+#p{
+    /* border: #31A8FF solid; */
+    position: relative;
+    top: 100px;
+    font-size: 128px;
+    color: aliceblue;
+    line-height: 250px;
+    margin-bottom: -60px;
+    animation: rainbow 3s linear;
+    animation-iteration-count: infinite;
+}
+@keyframes rainbow{
+		100%,0%{
+			color: rgb(255,0,0);
+		}
+		8%{
+			color: rgb(255,127,0);
+		}
+		16%{
+			color: rgb(255,255,0);
+		}
+		25%{
+			color: rgb(127,255,0);
+		}
+		33%{
+			color: rgb(0,255,0);
+		}
+		41%{
+			color: rgb(0,255,127);
+		}
+		50%{
+			color: rgb(0,255,255);
+		}
+		58%{
+			color: rgb(0,127,255);
+		}
+		66%{
+			color: rgb(0,0,255);
+		}
+		75%{
+			color: rgb(127,0,255);
+		}
+		83%{
+			color: rgb(255,0,255);
+		}
+		91%{
+			color: rgb(255,0,127);
+		}
+}
+#me{
+    position: relative;
+    top: 100px;
+    /* border: #31A8FF solid; */
+    font-size: 64px;
+    color: aliceblue;
+}
+#p1{
+    position: relative;
+    top: 100px;
+    /* border: #31A8FF solid; */
+    font-size: 64px;
+    background-image: linear-gradient(to left, violet, rgb(140, 132, 146), rgb(90, 90, 231), green, yellow, orange, red);
+    color: transparent;
+    -webkit-background-clip: text;
+}
+#p2{
+    position: relative;
+    top: 100px;
+    /* border: #31A8FF solid; */
+    font-size: 32px;
+    width: 70%;
+    color: aliceblue;
+}
+#p3{
+    position: relative;
+    top: 100px;
+    /* border: #31A8FF solid; */
+    margin-top: 10px;
+    font-size: 28px;
+    max-width: 800px;
+    color: aliceblue;
+}
+#p4{
+    position: relative;
+    top: 120px;
+    /* border: #31A8FF solid; */
+    margin-top: 10px;
+    font-size: 24px;
+    color: aliceblue;
+}
+#p4id{
+color: beige
+}
+
+#Hire {
+    position: relative;
+    top: 120px;
+    margin-top: 50px;
+}
+
+#sp1{
+    box-sizing: border-box;
+    font-size: 22px;
+    border-radius: 5px;
+    box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+    background-color: #31A8FF;
+}
+#link1{
+    color: black;
+    text-decoration: none;
+}
+
+#link1:hover{
+      font-size: 25px;
+      transition: 0.5s;
+}
+@media (max-width: 800px){
+    #Home{
+        margin-left:20px;
+        margin-right:20px;
+            position: relative;
+            top: -60px;
+            margin-bottom: 40px;
+            /* border: #31A8FF solid; */
+      }
+}

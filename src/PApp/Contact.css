@@ -1,0 +1,48 @@
+#Contact {
+    height: 'fit-content';
+    padding-top: 200px;
+  } 
+ 
+#para2{
+    color: cornflowerblue;
+    margin-bottom: 10px;
+    font-size: 20px;
+    /* border: 5px solid black; */
+}
+#para2:hover{
+    font-size: 25px;
+    transition: 1s;
+  }
+
+#h3id{
+    color: aliceblue;
+    font-size: 40px;
+    margin-bottom: 10px;
+    /* border: 5px solid black; */
+}
+#para3{
+    /* border: 5px solid black; */
+    font-size: 24px;
+    color: aliceblue;
+}
+#pdetails{
+    margin-right: 20%;
+    margin-left: 20%;
+}
+#h4id{
+    color: aliceblue;
+    font-size: 32px;
+    /* border: 5px solid black; */
+}
+img{
+    /* border: 5px solid black; */
+    height: 25px;
+    width: 25px;
+    margin: 20px;
+}
+
+#cmimg{
+    /* border: 5px solid black; */
+    height: 50px;
+    width: 50px;
+}
